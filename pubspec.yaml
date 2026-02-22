@@ -1,0 +1,20 @@
+pubspec.yaml
+   lib/main.dart
+   lib/models/user_model.dart
+   lib/models/message_model.dart
+   lib/models/status_model.dart
+   lib/providers/auth_provider.dart
+   lib/providers/user_provider.dart
+   lib/providers/chat_provider.dart
+   lib/providers/status_provider.dart
+   lib/utils/emoji_validator.dart
+   lib/screens/splash_screen.dart
+   lib/screens/onboarding_screen.dart
+   lib/screens/home_screen.dart
+   lib/screens/chats_screen.dart
+   lib/screens/online_users_screen.dart
+   lib/screens/status_screen.dart
+   lib/screens/chat_detail_screen.dart
+   lib/widgets/emoji_keyboard.dart
+   lib/widgets/create_status_dialog.dart
+   lib/widgets/status_view_dialog.dart
